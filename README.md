@@ -1,2 +1,0 @@
-# Clothify
-The Clothing Area
